@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniyal-Rashid-00
+- 👋 Hi, I’m Daniyal Rashid
 - 👀 I’m interested in Cyber Security and leads Generation
 - 🌱 I’m currently learning Computer Science
   
