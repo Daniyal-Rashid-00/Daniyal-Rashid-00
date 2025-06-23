@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniyal Rashid
-- 👀 I’m interested in Cyber Security and leads Generation
-- 🌱 I’m currently studying Computer Science
+- 👀 I’m interested in Cyber Security, Programming, and Lead Generation
+- 🌱 I’m currently studying Computer Science/IT
   
 <!---
 Daniyal-Rashid-00/Daniyal-Rashid-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
