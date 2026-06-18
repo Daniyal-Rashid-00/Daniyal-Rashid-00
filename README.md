@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniyal Rashid<br>👀 I’m interested in Cyber Security, Programming, and Marketing<br>🌱 I’m currently studying BSIT
+👋 Hi, I’m Daniyal Rashid.<br>👀 I’m interested in Cyber Security, Programming, and Marketing.<br>🌱 Currently studying BSIT.
 
 
 ## 🌐 Socials:
